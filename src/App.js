@@ -1,7 +1,12 @@
 import "./App.css";
+import Login from "./components/Login";
 
 function App() {
-  return <div className="text-2xl text-red-500 font-bold">Not Rendered..</div>;
+  return (
+    <>
+      <Login />
+    </>
+  );
 }
 
 export default App;
