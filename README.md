@@ -3,6 +3,7 @@
 - Login / Signup Page
   - Signin Signup form
   - Redirect to browse page
+  - Login Form
 - Browse route (After authentication)
 
   - Header
