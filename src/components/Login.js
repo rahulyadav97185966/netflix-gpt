@@ -8,11 +8,11 @@ const Login = () => {
     <div>
       <Header />
       <img
-        className="absolute"
+        className="absolute object-fill"
         src="https://assets.nflxext.com/ffe/siteui/vlv3/9db4a880-3034-4e98-bdea-5d983e86bf52/b5953637-091d-4e02-9754-2bfadc8a8f7c/IN-en-20230925-popsignuptwoweeks-perspective_alpha_website_large.jpg"
         alt="bg-img"
       />
-      <form className="absolute my-20 w-3/12 p-8 pb-32 px-8 mx-auto right-0 left-0 bg-black bg-opacity-80">
+      <form className="absolute mt-20 w-3/12 p-8 pb-16 px-8 mx-auto right-0 left-0 bg-black bg-opacity-80">
         <h1 className="text-white text-bold text-3xl font-semibold my-4">
           Sign In
         </h1>
